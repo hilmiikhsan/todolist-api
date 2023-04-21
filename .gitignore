@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+.env.yml
+.env-staging.yml
+.env-production.yml
+gin-bin
+1000-startup
+superadmin_seeding.sql
+gin-bin.exe
+/log
